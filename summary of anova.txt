@@ -1,0 +1,29 @@
+Terms:
+                 Station Residuals
+Sum of Squares  41.81832  32.77440
+Deg. of Freedom        1        18
+
+Residual standard error: 1.34937
+Estimated effects may be unbalanced
+> summary(model)
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Station      1  41.82   41.82   22.97 0.000146 ***
+Residuals   18  32.77    1.82                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+ Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = Protein ~ Station, data = newdata)
+
+$Station
+                           diff       lwr       upr     p adj
+Maheshkhali-Chaufaldandi -2.892 -4.159815 -1.624185 0.0001458
+
+
+
+Station      emmean    SE df lower.CL upper.CL
+ Chaufaldandi   37.2 0.427 18     36.3     38.1
+ Maheshkhali    34.3 0.427 18     33.4     35.2
