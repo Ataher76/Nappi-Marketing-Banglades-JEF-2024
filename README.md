@@ -21,7 +21,7 @@ This repository contains the research data and analytical scripts for the study 
 ## **How to Cite**
 If you utilize the data or code from this repository, please cite the original article:
 
-> Monwar, M. M., Islam, M. R., Nirjar, S. D., Khan, M. A. A., Alam, M. S., Ali, A., & Ahmed, I. (2024). **The proximate composition of Nappi and its marketing methods in Bangladesh.** *Journal of Ethnic Foods*, 11(1), 14. https://doi.org/10.1186/s42779-024-00227-w
+> Monwar, M. M., Islam, M. R., Nirjar, S. D., Khan, M. A. A., Alam, M. S., Ali, A., & Ahmed, I. (2024). **The proximate composition of Nappi and its marketing methods in Bangladesh.** *Journal of Ethnic Foods*, 11(1), 14. https://doi.org/10.1186/s42779-024-00231-9
 
 ---
 
